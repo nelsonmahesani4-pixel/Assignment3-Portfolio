@@ -34,7 +34,7 @@ border-radius: 3px;
 }
 #list>li{
      display: inline-block;
-    font-size: 22px;
+    /* font-size: 22px; */
     margin:0px 20px;
     font-weight: 600;
 
@@ -58,43 +58,43 @@ text-align: right;
     display:flex;
     /* background-color: white; */
     box-shadow: 800px 20px 300px #faadee;
-    border-radius: 20px;;
+    border-radius: 20px;
 
 }
 #div1{
     /* margin: 0px 136px 0px 0px;
     padding: 52px 0px 0px; */
-    width:30%;
+    width:50%;
     /* margin: auto; */
     margin-left: 50px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 h1{
-    font-size: 30px;
-    line-height: 0.5;
+    /* font-size: 30px; */
 }
 #id1{
-    font-size:20px;
+    font-size:30px;
+     color: #6d6969;
 }
 
 #div2{
     background: whitesmoke;
     background-image: url('https://themewagon.github.io/picto/assets/person-CqOZwXV1.png');
      /* padding: 52px 0px 0px; */
-      width: 100%;
-     max-width: 500px;
+      width: 50%;
+    max-width: 500px;
      /* height:90%; */
-    margin-left: auto;
+    margin-left:100px;
     margin-right: auto;
      margin-top: 20px;
+     margin-bottom: 100px;
        /* display: inline-block; */
      border-radius:25px;
      background-repeat: no-repeat;
       text-align: center;
-    
      }
 #a2{
-width:40%;
+width:25%;
    color: White;
    background-color: #9929fb;
    border-radius:6px;
@@ -156,28 +156,28 @@ width:40%;
 #para3{
     font-size: 22px;
 }
-#menu1{
+#experience{
     background:white;
-    margin-top: 200px;
-    margin-left: 100px;
+    margin-left: auto;
     padding:80px;
     border-radius: 20px;
-    width:75%;
+    width:100%;
     display:flex;
     height:500px;
      box-shadow: 800px 20px 300px #aad6db;
 }
 #div7{
     background-image: url('https://themewagon.github.io/picto/assets/person-CqOZwXV1.png');
-    width:500px;
+    /* width:500px; */
+    width:50%;
     height:500px;
     background-color:#F0F1F3;
     border-radius:20px;
+     vertical-align: middle;
 }
 #div8{
     margin:150px 100px;
-    width:400px
-
+    width:50%;
 }
 h2{
     font-display:inline;
@@ -201,7 +201,6 @@ h2{
     /* width:1008.56; */
     width:100%;
     display:flex;
-
  }
  #div9{
     margin: 0px 0px 32px;
@@ -262,7 +261,6 @@ height:580.8px;
 width:20%;
  margin-top:60px;
  /* margin-left:100px; */
- margin-right:0px;
 }
 #id2{
    background:white;  
@@ -385,7 +383,6 @@ box-sizing: border-box;
 .grid6{
     width: fit-content;
     height:500px;
-
 }
 .grid6:hover{
     box-shadow:-50px 0px 1000px rgb(223, 219, 219);
@@ -424,7 +421,7 @@ box-sizing: border-box;
     border-radius:3px;
    /* height: 30px; */
    padding-top:10px 20px;
-   padding-bottom:10px;
+   padding-bottom:10px
 
 }
 #project:hover{
